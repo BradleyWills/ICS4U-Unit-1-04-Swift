@@ -1,9 +1,8 @@
-// The LogCalculation program implements an application that calculates how many 
-// maple logs should be placed on a truck if you know the lengths of the logs. 
-//
-//author Bradley Wills
+// The MicrowaveTime program implements an application that calculates how much 
+// time a microwave should run depending on the item and how many of said item.
+// author Bradley Wills
 // version 1.0
-// since 2020-02-12
+// since 2020-02-23
 
 // create variables
 var timeForOneItem:Double = 0
